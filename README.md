@@ -38,3 +38,5 @@ A brief description of what this project does and who it's for.
 
 - http://localhost:8000/swagger/
 0r http://localhost:8000/redoc/
+
+![Swagger](Screenshot 2023-10-07 125920.png)
